@@ -32,7 +32,7 @@ Comprehensive analysis of South Africa’s **3-month Johannesburg Interbank Aver
 
 ## 📁 Repository Contents
 
-- `report/` → Full LaTeX report + PDF (≈ 35 pages)
+- `report/` → Full LaTeX report + PDF (≈ 16 pages)
 - `notebooks/` → Jupyter notebooks with complete analysis
 - `data/` → Raw CSV files from FRED
 - `plots/` → All generated figures
