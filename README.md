@@ -24,9 +24,9 @@ Comprehensive analysis of South Africa’s **3-month Johannesburg Interbank Aver
 
 ## 📊 Visualisations
 
-![JIBAR Trend](plots/jibar-trend.png)
-![JIBAR vs Repo](plots/merged.png)
-![Volatility](plots/Volatility.png)
+![JIBAR Trend](plots/jibar-trend.PNG)
+![JIBAR vs Repo](plots/merged.PNG)
+![Volatility](plots/Volatility.PNG)
 
 ---
 
